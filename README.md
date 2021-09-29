@@ -87,7 +87,7 @@ By the end of the course the students will be able to
 |                        Assignment                           | Date Assigned |   Due Date   |            Gradescope Link           |
 |:-----------------------------------------------------------:|:-------------:|:------------:|:------------------------------------:|
 | [Homework 1 - Linear Regression for Boston Housing Dataset] | Tues, August 31   | Wed, September 8 | [Homework 1]  |
-| [Homework 2 - SVM for Breast Cancer Dataset]                | Wed, September 15   | Fri, October 1 | [Homework 2]  |
+| [Homework 2 - SVM for Breast Cancer Dataset]                | Wed, September 15   | Fri, September 24 | [Homework 2]  |
 | [Homework 3 - PCA, K-Means Clustering, Anomaly Detection]   | TBD   | Fri, October 1  | [Homework 3]  |
 | [Final Project]                                             | Wed, September 22  | Fri, October 8 | [Homework 5]  |
 
